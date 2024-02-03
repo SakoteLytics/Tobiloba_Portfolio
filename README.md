@@ -1,8 +1,8 @@
 
-This portfolio contains all data modelling and visualization using PowerBi desktop
+My name is Tobiloba Sakote. A big welcome to my portfolio.
 
 
-## [Project 1: Data Visualization at TATA] 
+## [Project 1: Data Visualization at TATA]
 
 Tata Data Visualisation: Empowering Business with Effective Insights Job
 Simulation on Forage
@@ -14,6 +14,7 @@ Simulation on Forage
  * Created visuals for data analysis to help executives with effective decision
    making
     
+
 
 
 ## [Project 2: PwC Switzerland] 
@@ -32,3 +33,6 @@ Simulation on Forage
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
+
+
+   ## [Project 3: Customer Churn Analysis]
